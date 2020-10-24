@@ -1,39 +1,8 @@
 {
-  "pizzasFav": [
+  "pizzasFav": 
     {
       "id": 1,
       "nombre": "Peperoni",
       "url": "https://i.postimg.cc/d1kv25bM/Pepperoni-Pizza.png",      
-    },
-    {
-      "id": 2,
-      "nombre": "Salami",
-      "url": "https://i.postimg.cc/mDMJZKxr/PIZZA-6.png"
-      
-    },
-    {
-      "id": 3,
-      "nombre": "Hawaiana",
-      "url": "https://i.postimg.cc/hP4yNXGv/Hawaiian-1.png"
-      
-    },
-    {
-      "id": 4,
-      "nombre": "Carne",
-      "url": "https://i.postimg.cc/mgvSZkTQ/kindpng-3536305.png"
-      
-    },
-    {
-      "id": 5,
-      "nombre": "3 Quesos",
-      "url": "https://i.postimg.cc/gj2Vt6KP/kindpng-4944719.png"
-     
-    },
-    {
-      "id": 6,
-      "nombre": "Pollo con champiñones",
-      "url": "https://i.postimg.cc/cLnQzWf6/pollo-y-champinones.png"
-     
     }
-  ]
 }
