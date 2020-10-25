@@ -121,6 +121,46 @@
     { 
       "id":1,
       "nombre":"Queso"
+    },
+    { 
+      "id":2,
+      "nombre":"Jamon"
+    },
+    { 
+      "id":3,
+      "nombre":"Champiñones"
+    },
+    { 
+      "id":4,
+      "nombre":"Salchicha"
+    },
+    { 
+      "id":5,
+      "nombre":"Pimenton"
+    },
+    { 
+      "id":6,
+      "nombre":"Atun"
+    },
+    { 
+      "id":7,
+      "nombre":"Aceites"
+    },
+    { 
+      "id":8,
+      "nombre":"Peperoni"
+    },
+    { 
+      "id":9,
+      "nombre":"Bacon"
+    },
+    { 
+      "id":10,
+      "nombre":"Salami"
+    },
+    { 
+      "id":11,
+      "nombre":"Jalapeños"
     }
   ]
 }
