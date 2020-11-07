@@ -133,47 +133,58 @@
   "Ingredientes":[
     { 
       "id":1,
-      "nombre":"Queso"
+      "nombre":"Queso",
+      "price":2000
     },
     { 
       "id":2,
-      "nombre":"Jamon"
+      "nombre":"Jamon",
+      "price":2000
     },
     { 
       "id":3,
-      "nombre":"Champiñones"
+      "nombre":"Champiñones",
+      "price":4000
     },
     { 
       "id":4,
-      "nombre":"Salchicha"
+      "nombre":"Salchicha",
+      "price":4000
     },
     { 
       "id":5,
-      "nombre":"Pimenton"
+      "nombre":"Pimenton",
+      "price":5000
     },
     { 
       "id":6,
-      "nombre":"Atun"
+      "nombre":"Atun",
+      "price":3000
     },
     { 
       "id":7,
-      "nombre":"Aceites"
+      "nombre":"Aceitunas",
+      "price":6000
     },
     { 
       "id":8,
-      "nombre":"Peperoni"
+      "nombre":"Peperoni",
+      "price":3000
     },
     { 
       "id":9,
-      "nombre":"Bacon"
+      "nombre":"Bacon",
+      "price":4000
     },
     { 
       "id":10,
-      "nombre":"Salami"
+      "nombre":"Salami",
+      "price":5000
     },
     { 
       "id":11,
-      "nombre":"Jalapeños"
+      "nombre":"Jalapeños",
+      "price":3000
     }
   ]
 }
